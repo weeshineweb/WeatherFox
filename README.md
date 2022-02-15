@@ -1,3 +1,4 @@
-# weatherfox
-WeatherFox App
-HTML,CSS APP
+# WeatherFox
+###### Simple web project
+
+## Start!
