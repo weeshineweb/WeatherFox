@@ -6,4 +6,8 @@ There is not much code in this project, but I am trying to develop it. I want to
 Copy files from this github to your hosting or IDE. Register on the site https://openweathermap.org/api and create your API token.Next you just need in the script.js file, change on line 27 API token to your.
 
 ### Hooray!
-Congratulations! You have successfully installed this project. For all questions write to <b> Github Issue </b>
+Congratulations! You have successfully installed this project. For all questions write to <b> Github Issue </b> .
+
+### DeMo 
+DEMO version of site : https://weeshineweb.github.io/WeatherFox/ .
+Temporarily not working
