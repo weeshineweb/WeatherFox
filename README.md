@@ -8,6 +8,5 @@ Copy files from this github to your hosting or IDE. Register on the site https:/
 ### Hooray!
 Congratulations! You have successfully installed this project. For all questions write to <b> Github Issue </b> .
 
-### DeMo 
-DEMO version of site : https://weeshineweb.github.io/WeatherFox/ .
-Temporarily not working
+### Live version
+You can see the work of this project in the demo : https://weeshineweb.github.io/WeatherFox/
