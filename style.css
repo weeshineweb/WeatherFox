@@ -10,11 +10,12 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #C46500;
+
+  background: linear-gradient(to bottom, #757abf 0%,#8583be 60%,#eab0d1 100%);
 }
 ::selection{
   color: #000000;
-  background: #ED960B;
+  background: #8583be;
 }
 .wrapper{
   width: 500px;
@@ -24,12 +25,14 @@ body{
 }
 .wrapper header{
   display: flex;
+  background-color: #dbdbdb;
   font-size: 21px;
   font-weight: 700;
-  color: #ED960B;
+  color: #2e2e2e;
   padding: 16px 15px;
   align-items: center;
-  border-bottom: 2px solid #d6d6d6;
+  border: 1px solid #dbdbdb;
+  border-radius: 6px;
 }
 header i{
   font-size: 0em;
@@ -58,7 +61,7 @@ header i{
   color: #721c24;
   display: block;
   background: #f8d7da;
-  border: 1px solid #f5c6cb;
+  border: 1px solid #f595a0;
 }
 .input-part .info-txt.pending{
   color: #0c5460;
@@ -80,7 +83,7 @@ header i{
   border: 1px solid #ccc;
 }
 .input-part input:is(:focus, :valid){
-  border: 2px solid #fc733d;
+  border: 2px solid #2e2e2e;
 }
 .input-part input::placeholder{
   color: #bfbfbf;
@@ -171,7 +174,7 @@ header i{
   justify-content: center;
 }
 .column i{
-  color: #ff6c47;
+  color: #2e2e2e;
   font-size: 40px;
 }
 .column.humidity{
