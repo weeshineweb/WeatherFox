@@ -7,6 +7,3 @@ Copy files from this github to your hosting or IDE. Register on the site https:/
 
 ### Hooray!
 Congratulations! You have successfully installed this project. For all questions write to <b> Github Issue </b> .
-
-### Live version
-You can see the work of this project in the demo ( not work geo button ) : https://weatherfox-2.nikadev.repl.co/
