@@ -15,7 +15,7 @@ inputField.addEventListener("keyup", e =>{
 });
 
 function requestApi(city){
-    api = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=a9351aad681763f45f00b6ed1f48701a`;
+    api = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=youapikey`;
     fetchData();
 }
 
